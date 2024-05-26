@@ -1,0 +1,26 @@
+c:\users\horea\onedrive\documents\visual studio 2010\Projects\RETETE - ATESTAT RADA\RETETE - ATESTAT RADA\bin\Debug\RETETE - ATESTAT RADA.exe.config
+c:\users\horea\onedrive\documents\visual studio 2010\Projects\RETETE - ATESTAT RADA\RETETE - ATESTAT RADA\obj\x86\Debug\RETETE__ATESTAT_RADA.Form1.resources
+c:\users\horea\onedrive\documents\visual studio 2010\Projects\RETETE - ATESTAT RADA\RETETE - ATESTAT RADA\obj\x86\Debug\RETETE___ATESTAT_RADA.Properties.Resources.resources
+c:\users\horea\onedrive\documents\visual studio 2010\Projects\RETETE - ATESTAT RADA\RETETE - ATESTAT RADA\obj\x86\Debug\RETETE - ATESTAT RADA.csproj.GenerateResource.Cache
+c:\users\horea\onedrive\documents\visual studio 2010\Projects\RETETE - ATESTAT RADA\RETETE - ATESTAT RADA\bin\Debug\RETETE - ATESTAT RADA.exe
+c:\users\horea\onedrive\documents\visual studio 2010\Projects\RETETE - ATESTAT RADA\RETETE - ATESTAT RADA\bin\Debug\RETETE - ATESTAT RADA.pdb
+c:\users\horea\onedrive\documents\visual studio 2010\Projects\RETETE - ATESTAT RADA\RETETE - ATESTAT RADA\obj\x86\Debug\RETETE - ATESTAT RADA.exe
+c:\users\horea\onedrive\documents\visual studio 2010\Projects\RETETE - ATESTAT RADA\RETETE - ATESTAT RADA\obj\x86\Debug\RETETE - ATESTAT RADA.pdb
+C:\Users\horea\OneDrive\Documents\Visual Studio 2010\Projects\RETETE - ATESTAT RADA - Copie\RETETE - ATESTAT RADA\bin\Debug\RETETE - ATESTAT RADA.exe.config
+C:\Users\horea\OneDrive\Documents\Visual Studio 2010\Projects\RETETE - ATESTAT RADA - Copie\RETETE - ATESTAT RADA\obj\x86\Debug\RETETE - ATESTAT RADA.exe
+C:\Users\horea\OneDrive\Documents\Visual Studio 2010\Projects\RETETE - ATESTAT RADA - Copie\RETETE - ATESTAT RADA\obj\x86\Debug\RETETE - ATESTAT RADA.pdb
+C:\Users\horea\OneDrive\Documents\Visual Studio 2010\Projects\RETETE - ATESTAT RADA - Copie\RETETE - ATESTAT RADA\bin\Debug\RETETE - ATESTAT RADA.exe
+C:\Users\horea\OneDrive\Documents\Visual Studio 2010\Projects\RETETE - ATESTAT RADA - Copie\RETETE - ATESTAT RADA\bin\Debug\RETETE - ATESTAT RADA.pdb
+C:\Users\horea\OneDrive\Documents\Visual Studio 2010\Projects\RETETE - ATESTAT RADA - Copie\RETETE - ATESTAT RADA\obj\x86\Debug\RETETE - ATESTAT RADA.csprojResolveAssemblyReference.cache
+C:\Users\horea\OneDrive\Documents\Visual Studio 2010\Projects\RETETE - ATESTAT RADA - Copie\RETETE - ATESTAT RADA\obj\x86\Debug\RETETE__ATESTAT_RADA.Form1.resources
+C:\Users\horea\OneDrive\Documents\Visual Studio 2010\Projects\RETETE - ATESTAT RADA - Copie\RETETE - ATESTAT RADA\obj\x86\Debug\RETETE___ATESTAT_RADA.Properties.Resources.resources
+C:\Users\horea\OneDrive\Documents\Visual Studio 2010\Projects\RETETE - ATESTAT RADA - Copie\RETETE - ATESTAT RADA\obj\x86\Debug\RETETE - ATESTAT RADA.csproj.GenerateResource.Cache
+D:\Atestat\RETETE - ATESTAT RADA - Copie\RETETE - ATESTAT RADA\bin\Debug\RETETE - ATESTAT RADA.exe.config
+D:\Atestat\RETETE - ATESTAT RADA - Copie\RETETE - ATESTAT RADA\obj\x86\Debug\RETETE - ATESTAT RADA.exe
+D:\Atestat\RETETE - ATESTAT RADA - Copie\RETETE - ATESTAT RADA\obj\x86\Debug\RETETE - ATESTAT RADA.pdb
+D:\Atestat\RETETE - ATESTAT RADA - Copie\RETETE - ATESTAT RADA\bin\Debug\RETETE - ATESTAT RADA.exe
+D:\Atestat\RETETE - ATESTAT RADA - Copie\RETETE - ATESTAT RADA\bin\Debug\RETETE - ATESTAT RADA.pdb
+D:\Atestat\RETETE - ATESTAT RADA - Copie\RETETE - ATESTAT RADA\obj\x86\Debug\RETETE - ATESTAT RADA.csprojResolveAssemblyReference.cache
+D:\Atestat\RETETE - ATESTAT RADA - Copie\RETETE - ATESTAT RADA\obj\x86\Debug\RETETE__ATESTAT_RADA.Form1.resources
+D:\Atestat\RETETE - ATESTAT RADA - Copie\RETETE - ATESTAT RADA\obj\x86\Debug\RETETE___ATESTAT_RADA.Properties.Resources.resources
+D:\Atestat\RETETE - ATESTAT RADA - Copie\RETETE - ATESTAT RADA\obj\x86\Debug\RETETE - ATESTAT RADA.csproj.GenerateResource.Cache
